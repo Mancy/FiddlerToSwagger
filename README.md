@@ -102,8 +102,8 @@ paths:
 ### Build Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mancy/fiddler-swagger-exporter.git
-   cd fiddler-swagger-exporter
+   git clone https://github.com/Mancy/FiddlerToSwagger.git
+   cd FiddlerToSwagger
    ```
 
 2. Restore NuGet packages:
